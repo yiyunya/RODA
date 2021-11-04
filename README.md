@@ -14,9 +14,7 @@ All data used for this paper could be found in /data folder. Augment.json holds 
 
 All data is saved as:
 
-> {
-> 
-> 'id': '1', 
+> {'id': '1', 
 > 
 > 'origin_id': '946', 
 > 
@@ -28,6 +26,21 @@ All data is saved as:
 > 
 > 'text': '甲数 除以 乙数 的 商是 temp_a , 则 甲数 是 乙 的 temp_b 倍 , 原来 甲数 temp_c , 如果 甲数 增加 =？', 
 > 
-> 'answer': 20.0
-> 
-> }
+> 'answer': 20.0}
+
+##Code
+
+The code for reproduction and generating the augmented data would be released soon.
+
+##Citation
+
+If you find this repo useful, please cite the following paper:
+
+@misc{liu2020reverse,
+      title={Reverse Operation based Data Augmentation for Solving Math Word Problems}, 
+      author={Qianying Liu and Wenyu Guan and Sujian Li and Fei Cheng and Daisuke Kawahara and Sadao Kurohashi},
+      year={2020},
+      eprint={2010.01556},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
