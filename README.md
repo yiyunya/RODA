@@ -14,6 +14,7 @@ All data used for this paper could be found in /data folder. Augment.json holds 
 
 All data is saved as:
 
+```
 {'id': '1', 
 'origin_id': '946', 
 'target_template': ['x', '=', 'temp_c', '*', '(', 'temp_b', '-', 'temp_a', ')', '/', 'temp_a'], 
@@ -21,6 +22,7 @@ All data is saved as:
 'num_list': [1.5, 4.0, 12.0], 
 'text': '甲数 除以 乙数 的 商是 temp_a , 则 甲数 是 乙 的 temp_b 倍 , 原来 甲数 temp_c , 如果 甲数 增加 =？', 
 'answer': 20.0}
+```
 
 ##Code
 
