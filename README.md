@@ -8,7 +8,7 @@ This paper has been acceptted for publication in *Transactions on Audio, Speech 
 We propose a novel data augmentation method that reverses the mathematical logic of math word problems to produce new high-quality math problems
 and introduce new knowledge points that can benefit learning the mathematical reasoning logic. We apply the augmented data on two SOTA math word problem solving models and compare our results with a strong data augmentation baseline.
 
-##Data
+## Data
 
 All data used for this paper could be found in /data folder. Augment.json holds all questions augmented from Math23K, which is used for 5-cross validation evaluation. PreprocessedQuestion_enumeratefiltered(split)2.json holds the augmented data for the standard split of Math23K. checkmerge.json holds the data of origin and augmented data for the training set.
 
@@ -24,11 +24,11 @@ All data is saved as:
 'answer': 20.0}
 ```
 
-##Code
+## Code
 
 The code for reproduction and generating the augmented data would be released soon.
 
-##Citation
+## Citation
 
 If you find this repo useful, please cite the following paper:
 
