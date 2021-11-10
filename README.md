@@ -1,4 +1,4 @@
-# RODA: Reverse Operation based DataAugmentation for Solving Math Word Problems
+# RODA: Reverse Operation based Data Augmentation for Solving Math Word Problems
 Liu Q., Guan W., Li S., Cheng F., Kawahara D. and Kurohashi S. 
 
 
