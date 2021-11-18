@@ -39,7 +39,15 @@ The original data used for augmentation could be found here: https://github.com/
 
 ### Reproduction
 
-Coming soon!
+For reproducing the 5-fold cross-validation results, please run:
+
+```
+python run_check_merge.py
+```
+
+The original data used could be found here: https://github.com/ShichaoSun/math_seq2tree
+
+
 
 ## Citation
 
