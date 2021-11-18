@@ -45,13 +45,13 @@ For reproducing the 5-fold cross-validation results, please run:
 python run_check_merge.py
 ```
 
-The original data used could be found here: https://github.com/ShichaoSun/math_seq2tree
-
 For reproducing the train/test setting, please run:
 
 ```
 python run_check_merge.py --test_dir='data/Math_23K_test.json'
 ```
+
+The original data used could be found here: https://github.com/ShichaoSun/math_seq2tree
 
 ## Citation
 
