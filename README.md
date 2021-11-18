@@ -26,7 +26,20 @@ All data is saved as:
 
 ## Code
 
-The code for reproduction and generating the augmented data would be released soon.
+### Data Augmentation
+
+The augmented data could be obtained by the following code:
+
+```
+python preprocessEnumerate.py --data_path='./data/train23k_processed.json' --out_path='./data/PreprocessedQuestion_enumeratefilteredtrain2.json'
+```
+
+The original data used for augmentation could be found here: https://github.com/SumbeeLei/Math_EN
+
+
+### Reproduction
+
+Coming soon!
 
 ## Citation
 
