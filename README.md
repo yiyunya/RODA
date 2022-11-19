@@ -3,7 +3,7 @@ Liu Q., Guan W., Li S., Cheng F., Kawahara D. and Kurohashi S.
 
 
 
-This paper has been acceptted for publication in *Transactions on Audio, Speech and Language Processing.*.
+This paper has been accepted for publication in *Transactions on Audio, Speech and Language Processing.*.
 
 We propose a novel data augmentation method that reverses the mathematical logic of math word problems to produce new high-quality math problems
 and introduce new knowledge points that can benefit learning the mathematical reasoning logic. We apply the augmented data on two SOTA math word problem solving models and compare our results with a strong data augmentation baseline.
